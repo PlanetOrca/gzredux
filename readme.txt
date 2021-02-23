@@ -1,5 +1,5 @@
 [gzredux]
-Please read all licenses in the licenses folder before continuing
+Please read all licenses in the licenses folder before continuing. gzdoom.exe is in Base_Files. I recommend creating a shortcut to it in this directory
 
 File folders that should be here:
 Addons
@@ -10,5 +10,4 @@ licenses
 soundfonts
 
 Files that should be here:
-gzdoom (shortcut)
 readme.txt
