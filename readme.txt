@@ -8,6 +8,7 @@ fm_banks
 IWADS
 licenses
 soundfonts
+Bats
 
 Files that should be here:
 readme.txt
